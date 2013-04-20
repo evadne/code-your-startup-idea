@@ -6,3 +6,8 @@ img {
   width: 200px;
 }
 
+.description {
+  font-color: gray;
+  padding: 1.25em;
+}
+
