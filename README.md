@@ -6,7 +6,7 @@ Everyone has an idea. Execution is everything. In this workshop, you will learn 
 
 Get these tools for your workshop.
 
-* **Text Editor:** [Sublime Text](http://www.sublimetext.com/3) or [TextMate](http://api.textmate.org/downloads/beta). 
+* **Text Editor:** [Sublime Text](http://www.sublimetext.com/2).
 * **Browser:** [Chrome](https://www.google.com/intl/en/chrome/browser) (Remember to [enable Developer Tools](https://developers.google.com/chrome-developer-tools).)
 
 ## Next Steps
